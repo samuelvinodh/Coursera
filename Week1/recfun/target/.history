@@ -1,0 +1,15 @@
+compile
+run
+compile
+run
+compile
+console
+compile
+testOnly PascalSuite
+test PascalSuite
+compile
+console
+compile
+run
+test
+submit samuelvinodh@gmail.com rY0TCAB9rgltOo1H
