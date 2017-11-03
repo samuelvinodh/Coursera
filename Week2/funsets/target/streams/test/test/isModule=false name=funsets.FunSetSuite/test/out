@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) does not contains 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- Intersect contains common elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- Difference contains uncommon elements of 1st set[0m[0m
+[0m[[0minfo[0m] [0m[32m- Filter elements of 2 sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- Forall sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exists sets[0m[0m
